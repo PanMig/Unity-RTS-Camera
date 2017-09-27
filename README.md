@@ -6,7 +6,7 @@ A c# script to use as a component in your main camera to implement a _RTS_ style
 
 ## How to use ##
 
-You can either use the prefab that contains a camera with the script or attach the script to your main camera(add tag main camera).
+You can either use the prefab that contains a camera with the script or attach the script to your main camera(add tag "main camera").
 Once you have the script on your game object some options will be visible on the inspector, let's get a quick view of them.
 
 The important domains on the inspector are :
